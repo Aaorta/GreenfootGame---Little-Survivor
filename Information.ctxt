@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Information
+comment1.params=text
+comment1.target=Information(java.lang.String)
+comment2.params=text\ color
+comment2.target=Information(java.lang.String,\ greenfoot.Color)
+comment3.params=file\ a\ b
+comment3.target=Information(java.lang.String,\ int,\ int)
+comment4.params=input\ a\ b
+comment4.target=Information(greenfoot.GreenfootImage,\ int,\ int)
+comment5.params=
+comment5.target=int\ getWidth()
+comment6.params=transparency
+comment6.target=void\ updateImage(int)
+comment7.params=text\ x\ y
+comment7.target=void\ updateText(java.lang.String,\ int,\ int)
+numComments=8

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Kid
+comment1.params=player
+comment1.target=Kid(java.lang.String)
+comment10.params=arah\ velocity
+comment10.target=void\ ubahKoordinat(Kid.Arah,\ int)
+comment11.params=
+comment11.target=Kid.Arah\ cekInput()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=arahInput
+comment4.target=void\ animate(Kid.Arah)
+comment5.params=arahInput
+comment5.target=void\ animateCloak(Kid.Arah)
+comment6.params=
+comment6.target=void\ isTouchCoin()
+comment7.params=
+comment7.target=void\ interact()
+comment8.params=arahSekarang
+comment8.target=void\ move(Kid.Arah)
+comment9.params=arahSekarang
+comment9.target=boolean\ canMove(Kid.Arah)
+numComments=12

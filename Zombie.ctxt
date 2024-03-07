@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Zombie
+comment1.params=
+comment1.target=void\ act()
+comment10.params=arahSekarang
+comment10.target=boolean\ canMove(Zombie.Arah)
+comment11.params=arah\ velocity
+comment11.target=void\ ubahKoordinat(Zombie.Arah,\ int)
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ animate()
+comment4.params=
+comment4.target=void\ isTouchCoin()
+comment5.params=
+comment5.target=void\ interact()
+comment6.params=zombie
+comment6.target=Zombie(Zombie.TipeZombie)
+comment7.params=
+comment7.target=void\ move()
+comment8.params=arahSekarang
+comment8.target=Zombie.Arah\ getArahSebaliknya(Zombie.Arah)
+comment9.params=arahSekarang
+comment9.target=Zombie.Arah\ randomArah(Zombie.Arah)
+numComments=12
